@@ -2,3 +2,4 @@
 discussion2.ipynb
 *.csv
 *.html
+.DS_Store
